@@ -6,13 +6,11 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-         I am a marketing and growth strategist at heart, with a strong bias for turning ideas into traction. 
-         I enjoy moving between growth strategy, brand building, analytics, and execution, whether that means 
-         shaping a funding narrative, solving customer friction, building a go-to-market plan, or growing a brand
-          from scratch. My background spans startup growth at Eleos Social, customer insights at Williams-Sonoma, 
-          digital strategy consulting for the City of Tampere, and entrepreneurship through Samruddha Organics, 
-          where I scaled the business to break-even in 11 months. I like work that sits at the intersection of 
-          creativity and commercial impact.
+        I work at the intersection of strategy, operations, and marketing, turning ideas into real, measurable outcomes. 
+        I enjoy connecting data, customer insight, and execution to drive growth, whether that’s building a go to market plan, 
+        optimizing performance, or fixing what’s not working. I’m at my best in fast moving environments where I can think across functions,
+         take ownership, and turn complexity into clear action.
+
         </p>
       </div>
     </div>

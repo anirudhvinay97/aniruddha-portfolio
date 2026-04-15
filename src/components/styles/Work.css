@@ -183,8 +183,9 @@
 /* ── Work Image (reused) ── */
 .work-image {
   display: flex;
-  width: 100%;
   justify-content: center;
+  align-items: center;
+  width: 100%;
 }
 
 .work-image-in {
@@ -228,9 +229,12 @@
 }
 
 .work-image img {
-  max-width: 100%;
-  max-height: 400px;
+  max-width: 75%;
+  max-height: 320px;
+  object-fit: contain;
   border-radius: 8px;
+   padding: 20px;
+  background:rgba(255, 255, 255, 0.03);
 }
 
 /* ── Responsive ── */
